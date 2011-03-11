@@ -10,5 +10,7 @@ end
 
 group :test do
   gem 'rspec'
+  gem 'ZenTest'
+  gem 'autotest-rails'
   gem 'webrat'
 end
